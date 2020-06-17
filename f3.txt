@@ -1,1 +1,6 @@
 1.  New file creating and marge the both branch .... 
+
+
+
+
+2. I adding some same Data and merge it ....
