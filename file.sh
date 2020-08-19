@@ -1,2 +1,2 @@
-sudo mkdir Lemon
+mkdir Lemon
 touch L1
