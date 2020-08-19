@@ -1,2 +1,2 @@
-ssh ubuntu@172.31.63.150
-"sudo mkdir Lemon2"
+sudo mkdir Lemon
+touch L1
